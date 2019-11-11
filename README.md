@@ -48,13 +48,13 @@ http://localhost:5050/api/search/5d9df4a0ea940061485951b5 search/
 
 {
     "fullName": {
-        "firstName": "Ujjwal chu",
+        "firstName": "Brijesh",
         "middleName": "Kumar",
         "lastName": "Pant"
     },
     "address": {
         "flatNumber": "Baner",
-        "societyName": "kalawati coloney",
+        "societyName": "kalawati colony",
         "streetName": "nawabi road"
     },
     "isPublished": true,
